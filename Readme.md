@@ -25,3 +25,4 @@
 
     maka silahkan cek ke website dokumetasi dari ```realrashid/sweet-alert``` (https://github.com/realrashid/sweet-alert/releases).
 
+5. Untuk lebih lanjut dapat merujuk ke dokumetasi resmi Laravel(https://laravel.com/docs/9.x/upgrade#main-content).
